@@ -2,3 +2,4 @@ tmp/*
 *.txt
 *.xml
 tmp/tdo.txt
+.vscode
